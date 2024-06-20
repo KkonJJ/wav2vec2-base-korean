@@ -1,6 +1,9 @@
 
 # Fine-Tuning Wav2Vec2-Base for Korean Speech Recognition
 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model%20Card-orange)](https://huggingface.co/Kkonjeong/wav2vec2-base-korean/blob/main/README.md)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rVhqR22zrlSWXGbrpux3i-dQlR8uqSc4#scrollTo=Jj6TydLiDpCw)
+
 This project focuses on fine-tuning Facebook's Wav2Vec2-Base model for Korean speech recognition using the Zeroth-Korean dataset.
 
 ## Project Purpose
